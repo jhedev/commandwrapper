@@ -1,0 +1,6 @@
+[package]
+name = "commandwrapper"
+version = "0.1.0"
+authors = ["Joel Hermanns <joel.hermanns@gmail.com>"]
+
+[dependencies]
